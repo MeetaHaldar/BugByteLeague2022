@@ -3,6 +3,11 @@
 .my_nav {
   background-color: #051367;
 }
+.logo{
+  width: 70px;
+  height: 70px;
+
+}
 
 .responsive_img {
   border-radius: 50%;
@@ -39,4 +44,8 @@ img {
   background-color: #051367;
   color: white;
 
+}
+
+.foot{
+  background-color: blanchedalmond;
 }

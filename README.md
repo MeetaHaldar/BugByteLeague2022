@@ -1,4 +1,4 @@
-<h1> To Do App </h1>
+<h1>Classroom Management Web Application </h1>
 
 <h2> Introduction 🍀  </h2>
 <p>This is a Classroom management web Application. This is application provides some of the key features of online education in offline education.</p>

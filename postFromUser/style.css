@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(232, 232, 252);
+}
+
+
+
+
+.my_hidden_file {
+  display: none;
+}
+
+.my_form {
+  max-width: 500px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+
+  grid-template-areas: "a a a b c c";
+}
+
+.item1 {
+  grid-area: a;
+}
+.item2 {
+  grid-area: b;
+}
+
+.item3 {
+  grid-area: c;
+}
+
+.my_post_profile {
+  margin: 10px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.user_float {
+  text-align: left;
+}
+.my_post_grid {
+  display: grid;
+  max-width: 400px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+
+
+
+
+
+/* footer */
+/* navbar */
+
+.my_nav {
+    background-color: #051367;
+  }
+  
+  .responsive_img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+  }
+  input {
+    outline: none;
+  }
+  
+  img {
+    border-radius: 10px;
+  }
+  
+  .my_grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  @media (max-width: 700px) {
+    .my_grid {
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap: 1rem;
+    }
+  }
+  
+  .profile_image {
+    width: 300px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  .my_profile {
+    max-width: 600px;
+    background-color: #051367;
+    color: white;
+  
+  }
+  

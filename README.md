@@ -26,6 +26,7 @@
   <li> Students Who prefer Studying online or offline Can Study from the same lecutres. </li>
   <li> Providing various features to improve to quality education for the students. </li>
   <li> Providing features like leaderboards, voting system and Attendence marking using gps. </li>
+  <li> Providing classroom environment of Both Offline and Online classes. </li>
   </ul>
   
 <h2> Thank You </h2>

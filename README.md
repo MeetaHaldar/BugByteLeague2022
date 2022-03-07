@@ -22,7 +22,11 @@
 
 <h3>Conclusion</h3>
 <p>How this Application will impact student's Lives?</p>
-<p>There are some students who prefer offline education mode and there are some student's who prefer self studying rather than attending the offline classes all the time. Our Application just targets this problem and brings a new solution for the students where students can watch recorded lectures of the classroom and any online references passed by the teachers also posted in this application making it easier for the students to access more the study materials. and as for those students who are shy to ask questions from the teachers the doubt raising features solves the exact problem where students can upvote or downvote according to the lecture quality. Which gives students more reason to attend offline classes and communicate with other fellow students.</p>
-
+<ul>
+  <li> Students Who prefer Studying online or offline Can Study from the same lecutres. </li>
+  <li> Providing various features to improve to quality education for the students. </li>
+  <li> Providing features like leaderboards, voting system and Attendence marking using gps. </li>
+  </ul>
+  
 <h2> Thank You </h2>
 
